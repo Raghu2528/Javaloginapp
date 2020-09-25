@@ -1,0 +1,7 @@
+com\test\dao\DBConnection.class
+com\test\web\RegisterDataController.class
+com\test\dao\RegisterDao.class
+com\test\dao\RegisterDaonewwww.class
+com\test\web\RegisterServlet.class
+com\test\model\RegisterBean.class
+com\test\model\RegisterData.class
