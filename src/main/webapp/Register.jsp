@@ -43,7 +43,7 @@ function validate()
 </script> 
 </head>
 <body>
-<center><h2>Java Registration application using MVC and MySQL Build Schedule </h2></center>
+<center><h2>Java Registration application using MVC and MySQL.. </h2></center>
     <form name="form" action="RegisterServlet" method="post" onsubmit="return validate()">
         <table align="center">
          <tr>
