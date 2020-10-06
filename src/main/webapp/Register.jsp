@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Sample Java App after 1st commit</title>
+<title>Sample Java App after 2st commit</title>
 <script> 
 function validate()
 { 
